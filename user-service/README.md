@@ -1,1 +1,1 @@
-# User Service for PlaySpot
+# Full User Service for PlaySpot
